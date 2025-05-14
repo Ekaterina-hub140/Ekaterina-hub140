@@ -31,7 +31,7 @@
 
 ## 🚀 **Featured Projects**  
   
-1. **[Blog]([https://github.com/Ekaterina-hub140/Django4.2-blog])**  
+1. **[Blog]https://github.com/Ekaterina-hub140/blog_project/tree/master**  
    - I designed and built a robust blogging platform from scratch using Django 4.2, implementing professional-grade features that mirror real-world web applications.   
 2. **[Web Scraper][https://github.com/your-repo]([https://github.com/Ekaterina-hub140/Ekaterina/blob/master/Webscraping.ipynb])**  
    - Python script to extract and analyze data from [amazon.com] site.  
