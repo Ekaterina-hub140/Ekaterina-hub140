@@ -8,18 +8,23 @@
 ---
 
 ## 🛠 **Tech Stack**  
-**Backend:**  
-- Python (OOP, Generators, Web Scraping, APIs)  
-- **Django 4.2** (Models, Class-Based Views, Authentication, Deployment)  
-- Django REST Framework (API Development)  
+ 
+#### **Backend & Databases**  
+- Python (Django, REST APIs, Web Scraping with Beautiful Soup/Scrapy)  
+- PostgreSQL, MySQL, SQL  
+- Authentication (JWT, OAuth), API Design (REST)  
 
-**Frontend:**  
-- JavaScript, jQuery, HTML/CSS, Bootstrap  
+#### **Frontend**  
+- JavaScript (ES6+), React   
+- HTML5, CSS3, Bootstrap  
+- Responsive Design, Cross-Browser Compatibility  
 
-**Tools:**  
-- Git/GitHub, PostgreSQL, Excel Automation  
+#### **DevOps & Tools**  
+- Git, Docker  
+- AWS/GCP Basics (EC2, S3), Linode
+- CI/CD (GitHub Actions)  
+- Testing (PyTest, Selenium)  
 
----
 
 ## 🔥 **What I Bring to the Table**  
 ✅ **5+ years** of freelance experience building full-stack web apps.  
