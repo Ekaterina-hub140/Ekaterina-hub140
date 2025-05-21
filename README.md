@@ -32,14 +32,16 @@
 ## 🚀 **Featured Projects**  
   
 1. **[Blog]https://github.com/Ekaterina-hub140/blog_project/tree/master**  
-   - I designed and built a robust blogging platform from scratch using Django 4.2, implementing professional-grade features that mirror real-world web applications.   
-2. **[Web Scraper][https://github.com/your-repo]([https://github.com/Ekaterina-hub140/Ekaterina/blob/master/Webscraping.ipynb])**  
+   - I designed and built a robust blogging platform from scratch using Django 4.2, implementing professional-grade features that mirror real-world web applications.
+2. **[ToDo API] https://github.com/Ekaterina-hub140/ToDoApp**
+   -A feature-rich Todo application with REST API, JWT authentication, and admin interface.
+3. **[Web Scraper][https://github.com/your-repo]([https://github.com/Ekaterina-hub140/Ekaterina/blob/master/Webscraping.ipynb])**  
    - Python script to extract and analyze data from [amazon.com] site.  
-3. **[Hotel Booking program]([https://github.com/Ekaterina-hub140/Ekaterina/blob/master/Hotel%20booking.ipynb])**  
+4. **[Hotel Booking program]([https://github.com/Ekaterina-hub140/Ekaterina/blob/master/Hotel%20booking.ipynb])**  
    - The program allows clients to book rooms, displays messages for available dates, and allows administrators to view all bookings.
-4. **[Bank program]([https://github.com/Ekaterina-hub140/Ekaterina/blob/master/bank.ipynb])
+5. **[Bank program]([https://github.com/Ekaterina-hub140/Ekaterina/blob/master/bank.ipynb])**
    - Python script to imitate a banking program (mortgages, loans, etc)
-5. **[Eulerian Path]([https://github.com/Ekaterina-hub140/Ekaterina/blob/master/Eulerian%20Path.ipynb])
+6. **[Eulerian Path]([https://github.com/Ekaterina-hub140/Ekaterina/blob/master/Eulerian%20Path.ipynb])**
    - The program takes as an input a graph and output either a Eulerian path or a Eulerian cycle, or state that it is not possible
 
 ---
